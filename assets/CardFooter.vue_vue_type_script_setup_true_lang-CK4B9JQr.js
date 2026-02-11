@@ -1,0 +1,1 @@
+import{f as o,c as r,n as t,g as n,h as c,x as l,o as p}from"./index-Caqby2fi.js";const m=o({__name:"CardFooter",props:{class:{}},setup(e){const s=e;return(a,d)=>(p(),r("div",{"data-slot":"card-footer",class:t(n(c)("flex items-center px-6 [.border-t]:pt-6",s.class))},[l(a.$slots,"default")],2))}});export{m as _};
